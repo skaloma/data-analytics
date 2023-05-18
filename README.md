@@ -47,4 +47,13 @@
 
 **Проект 3: Когортный анализ онлайн-школы в Excel**   
 Что нужно было сделать:
+- Проанализировать клиентский LTV по когортам времени захода на нашу платформу и сделать выводы, какие когорты лучше, а какие хуже с точки зрения LTV.
 
+Как решала:
+1. Построила сводную таблицу с абсолютными доходимостями клиентов по месячным когортам.
+2. Посчитала клиентский Retention для каждой когорты.
+3. На основании Retention рассчитала LT с помощью метода усредненных прямоугольников для каждой когорты.
+4. Рассчитала LTR для каждой когорты с помощью ARPU. (Значение ARPU было дано равным 300).
+5. Рассчитала LTV с помощью усредненных костов для каждой когорты.
+
+<a href='[https://docs.google.com/spreadsheets/d/1NngTUXosOI6lMKoFzp6ch3b1qtET_HC9/edit?usp=sharing&ouid=112991897766436802885&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1WZdloAULK5zgp3PA-KKAtzFdMS_8VJTe/edit?usp=sharing&ouid=112991897766436802885&rtpof=true&sd=true)](https://docs.google.com/spreadsheets/d/1WZdloAULK5zgp3PA-KKAtzFdMS_8VJTe/edit?usp=sharing&ouid=112991897766436802885&rtpof=true&sd=true)'>Ссылка на проект</a>
