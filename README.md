@@ -56,4 +56,4 @@
 4. Рассчитала LTR для каждой когорты с помощью ARPU. (Значение ARPU было дано равным 300).
 5. Рассчитала LTV с помощью усредненных костов для каждой когорты.
 
-<a href='[https://docs.google.com/spreadsheets/d/1NngTUXosOI6lMKoFzp6ch3b1qtET_HC9/edit?usp=sharing&ouid=112991897766436802885&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1WZdloAULK5zgp3PA-KKAtzFdMS_8VJTe/edit?usp=sharing&ouid=112991897766436802885&rtpof=true&sd=true)](https://docs.google.com/spreadsheets/d/1WZdloAULK5zgp3PA-KKAtzFdMS_8VJTe/edit?usp=sharing&ouid=112991897766436802885&rtpof=true&sd=true)'>Ссылка на проект</a>
+<a href='https://docs.google.com/spreadsheets/d/1WZdloAULK5zgp3PA-KKAtzFdMS_8VJTe/edit?usp=drive_web&ouid=112991897766436802885&rtpof=true'>Ссылка на проект</a>
